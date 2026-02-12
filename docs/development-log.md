@@ -36,3 +36,7 @@ ci: add build and test workflow
 
 feat: add validation rules for account state
 
+## 2026-02-12 - Stage 10
+
+feat: add reporting view for network switching
+
